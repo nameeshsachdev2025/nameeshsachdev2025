@@ -29,3 +29,19 @@
 - 🛠️ Currently building intelligent apps in healthcare and fitness using Python and CV  
 
 ---
+
+
+## 📊 My Stats
+
+### 🔢 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/nameesh_2005?theme=default&stats=solved)
+
+### 🧑‍💻 GitHub 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameeshsachdev2025&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nameeshsachdev2025&theme=default)
+
+
+
+
+
+
