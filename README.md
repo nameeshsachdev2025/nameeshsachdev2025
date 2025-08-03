@@ -34,7 +34,8 @@
 ## 📊 My Stats
 
 ### 🔢 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/nameesh_2005?theme=default&stats=solved)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nameesh_2005?theme=default&font=Fira+Code&ext=activity)
+
 
 ### 🧑‍💻 GitHub 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameeshsachdev2025&layout=compact&theme=default)
