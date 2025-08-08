@@ -4,6 +4,7 @@
   <a href="mailto:nameeshsachdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+918595506647"><img src="https://img.shields.io/badge/Phone-8595506647-blue?style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/nameesh_2005/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://drive.google.com/uc?export=download&id=1QEi6ohgx0T6cl7Rh0__4tF-qZJ4zdtro"><img src="https://img.shields.io/badge/Resume-Download-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 ---
