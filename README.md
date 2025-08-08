@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Nameesh Sachdev</h1>
+<h1 align="center">Hi there 👋, I'm Nameesh Sachdev</h1>
 
 <p align="center">
   <a href="mailto:nameeshsachdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +27,7 @@
 -  Focused on real-time AI systems, computer vision, and full-stack development  
 -  Interests: Machine Learning, Deep Learning, Human-Computer Interaction, Web Technologies  
 -  Actively solving coding challenges on [LeetCode](https://leetcode.com/u/nameesh_2005/)  
-- 🛠 Currently building intelligent apps in healthcare and fitness using Python and CV  
+-  Currently building intelligent apps in healthcare and fitness using Python and CV  
 
 ---
 
