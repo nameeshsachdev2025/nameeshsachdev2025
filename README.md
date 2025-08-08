@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nameesh Sachdev</h1>
+<h1 align="center">Hi there , I'm Nameesh Sachdev</h1>
 
 <p align="center">
   <a href="mailto:nameeshsachdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Languages & Tools
+##  Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -21,24 +21,24 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Science Student  
-- 💡 Focused on real-time AI systems, computer vision, and full-stack development  
-- 🧠 Interests: Machine Learning, Deep Learning, Human-Computer Interaction, Web Technologies  
-- 💻 Actively solving coding challenges on [LeetCode](https://leetcode.com/u/nameesh_2005/)  
-- 🛠️ Currently building intelligent apps in healthcare and fitness using Python and CV  
+-  Computer Science Student  
+-  Focused on real-time AI systems, computer vision, and full-stack development  
+-  Interests: Machine Learning, Deep Learning, Human-Computer Interaction, Web Technologies  
+-  Actively solving coding challenges on [LeetCode](https://leetcode.com/u/nameesh_2005/)  
+- 🛠 Currently building intelligent apps in healthcare and fitness using Python and CV  
 
 ---
 
 
-## 📊 My Stats
+##  My Stats
 
-### 🔢 LeetCode
+###  LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nameesh_2005?theme=default&font=Fira+Code&ext=activity)
 
 
-### 🧑‍💻 GitHub 
+###  GitHub 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameeshsachdev2025&layout=compact&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nameeshsachdev2025&theme=default)
 
